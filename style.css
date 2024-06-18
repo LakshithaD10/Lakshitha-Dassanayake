@@ -37,11 +37,16 @@ body {
     text-align: center;
   }
 
-  p,
-  li {
+  p{
     color: #104f82;
     font-size: 1rem;
     text-align: justify;
+  }
+  
+  li {
+    color: #104f82;
+    font-size: 1rem;
+    text-align: left;
   }
 
   .Intro-container {
