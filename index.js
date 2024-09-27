@@ -14,7 +14,7 @@ $(".Resume-Button").click(function () {
   // Create a hidden link to the PDF
   var link = document.createElement("a");
   link.href = pdfUrl;
-  link.download = "Resume - Lakshitha Dassanayake.pdf"; // Set the desired file name
+  link.download = "CV - Lakshitha Dassanayake.pdf"; // Set the desired file name
 
   // Simulate a click on the link to trigger the download
   document.body.appendChild(link);
